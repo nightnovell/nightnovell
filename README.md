@@ -1,0 +1,4 @@
+- Hi, I’m Sobirjon Davlatov
+- There are not many things I'm interested in. However, There is a purpose, a goal—to learn how to develope software. 
+- I’m currently learning Java and how to use it in Android Studio. 
+- If you want to assist me or financialy support me dm my Instagram @nighttwinkle27
